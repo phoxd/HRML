@@ -1,5 +1,5 @@
 ## Attribute Parser
-as per (HackerRank problem)[https://www.hackerrank.com/challenges/attribute-parser/problem]
+as per [HackerRank problem](https://www.hackerrank.com/challenges/attribute-parser/problem)
 
 
 ### HRML Grammar
